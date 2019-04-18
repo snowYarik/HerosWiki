@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Hero\'s Wiki</string>
+    <string name="heros_list">Heroes</string>
+    <string name="tools_text">Text</string>
+    <string-array name="select_action_arrays">
+        <item>All</item>
+        <item>By name</item>
+    </string-array>
+</resources>
